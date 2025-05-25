@@ -1,2 +1,2 @@
-# ZookeeperC-
+# Zookeeper
 Hyperskill Zookeeper project
